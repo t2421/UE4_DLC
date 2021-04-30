@@ -1,0 +1,22 @@
+{
+	"ClientVersion": "1",
+	"BuildUrl": "1/WindowsNoEditor",
+	"files": [
+		{
+			"filename": "UE4_DLC_pakchunk11.manifest",
+			"uniqueFilename": "UE4_DLC_pakchunk11.manifest",
+			"length": 930,
+			"URL": "UE4_DLC_pakchunk11.manifest",
+			"hash": "F0CF1AEE22CE77C7D2932FBBE47EE68CD86722F3",
+			"hash256": "B65625F0097BFA87E87F1DD81672605CB305076EF03BDADED573270619E709F1"
+		},
+		{
+			"filename": "UE4_DLC_pakchunk21.manifest",
+			"uniqueFilename": "UE4_DLC_pakchunk21.manifest",
+			"length": 930,
+			"URL": "UE4_DLC_pakchunk21.manifest",
+			"hash": "415DCB35996631F185A7A7A63F7343BF1FECA203",
+			"hash256": "A72573FAB9BFE898E6BB02B32C6FFE2E74D88A706E8604CED807422829756616"
+		}
+	]
+}
